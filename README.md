@@ -4,7 +4,7 @@
 
 **Why is this interesting ?**
 Urdu is a low resource language in NLP. Compared to English, which could have hundreds of thousands of articles floating around on the internet,
-there is not much content for Urdu.
+there is not much content for Urdu, to train ML language models .
 
 *Ghazal* is a form of poetry popular in South Asia. 
 Link: https://en.wikipedia.org/wiki/Ghazal
