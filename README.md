@@ -18,6 +18,13 @@ Source: https://en.wikipedia.org/wiki/Ghazal
 - The ghazal's uniqueness arises from its rhyme and refrain rules, referred to as the 'qaafiyaa' and 'radif' respectively. 
 - Each sher is self-contained and independent from the others, containing the complete expression of an idea.
 
+
+*I want to highlight an important point at this momement.*
+4Mb of text data is nothing compared to what transformer based models actually need. 
+
+[common crawl dataset](https://commoncrawl.org/) is a giant repository of free text data in more than 40 languages.
+If you actually want to train a transformer model from scratch, you would need data in order of millions of text files. And for that it would be best to start with one of these big data tools.
+
 ===============================================
 
 All data credits belong to the wonderful work done by **Rekhta foundation**.
