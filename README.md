@@ -19,7 +19,8 @@ Source: https://en.wikipedia.org/wiki/Ghazal
 - Each sher is self-contained and independent from the others, containing the complete expression of an idea.
 
 
-*I want to highlight an important point at this momement.*
+
+I want to highlight an important point at this momement.
 4Mb of text data is nothing compared to what transformer based models actually need. 
 
 [common crawl dataset](https://commoncrawl.org/) is a giant repository of free text data in more than 40 languages.
