@@ -13,3 +13,7 @@ Credits to these authors for their wonderful original creations:
  'waseem-barelvi','akbar-allahabadi','altaf-hussain-hali','ameer-khusrau','naji-shakir','naseer-turabi',
  'nazm-tabatabai','nida-fazli','noon-meem-rashid', 'habib-jalib'*
 
+
+If you would want to extend the size of this dataset, do a fork of this repository. 
+There is scope of improvement because currently this simple parsing only looks at a hand curated list of authors.
+There can be better ways of automating that task.
