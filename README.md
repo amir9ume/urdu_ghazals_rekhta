@@ -2,9 +2,6 @@ All data credits belong to the wonderful work done by **Rekhta foundation**.
 Data has been parsed into Urdu, Hindi and English translieration thanks to their excellent data organization.
 Consider supporting them for their great work in pushing the urdu language.
 
-![image.png
-](attachment:Screenshot 2020-12-23 at 12.51.31 AM.png
-)
 
 Credits to these authors for their wonderful original creations:
 
