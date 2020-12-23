@@ -18,6 +18,7 @@ Source: https://en.wikipedia.org/wiki/Ghazal
 - The ghazal's uniqueness arises from its rhyme and refrain rules, referred to as the 'qaafiyaa' and 'radif' respectively. 
 - Each sher is self-contained and independent from the others, containing the complete expression of an idea.
 
+===============================================
 All data credits belong to the wonderful work done by **Rekhta foundation**.
 Link: https://www.rekhta.org/
 
@@ -34,6 +35,7 @@ Credits to these authors for their wonderful original creations:
  'waseem-barelvi','akbar-allahabadi','altaf-hussain-hali','ameer-khusrau','naji-shakir','naseer-turabi',
  'nazm-tabatabai','nida-fazli','noon-meem-rashid', 'habib-jalib'*
 
+===============================================
 
 If you would want to extend the size of this dataset, do a fork of this repository. 
 There is scope of improvement because currently this simple parsing only looks at a hand curated list of authors.
