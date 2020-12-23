@@ -7,9 +7,9 @@ Urdu is a low resource language in NLP. Compared to English, which could have hu
 there is not much content for Urdu, to train ML language models .
 
 *Ghazal* is a form of poetry popular in South Asia. 
-Link: https://en.wikipedia.org/wiki/Ghazal
 
 *In terms of NLP*, it provides intersting possiblities for future testing of language models.
+Source: https://en.wikipedia.org/wiki/Ghazal
 
 - The ghazal is a short poem consisting of rhyming couplets, called Sher or Bayt. 
 - Most ghazals have between seven and twelve shers. For a poem to be considered a true ghazal, it must have no fewer than five couplets. 
