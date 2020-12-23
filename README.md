@@ -19,6 +19,7 @@ Source: https://en.wikipedia.org/wiki/Ghazal
 - Each sher is self-contained and independent from the others, containing the complete expression of an idea.
 
 ===============================================
+
 All data credits belong to the wonderful work done by **Rekhta foundation**.
 Link: https://www.rekhta.org/
 
