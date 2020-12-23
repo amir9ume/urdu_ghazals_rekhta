@@ -37,4 +37,4 @@ Credits to these authors for their wonderful original creations:
 
 If you would want to extend the size of this dataset, do a fork of this repository. 
 There is scope of improvement because currently this simple parsing only looks at a hand curated list of authors.
-There can be better ways of automating that task.
+There can be better ways of automating the task.
