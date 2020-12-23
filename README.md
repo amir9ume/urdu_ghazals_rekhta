@@ -14,7 +14,8 @@ Credits to these authors for their wonderful original creations:
  'nazm-tabatabai','nida-fazli','noon-meem-rashid', 'habib-jalib'*
 
 
-
+**Dataset** is arranged as authors-> [en , ur, hi] -> ghazals/poems
+[en, ur , hi] signify english translieration and urdu , hindi text
 
 If you would want to extend the size of this dataset, do a fork of this repository. 
 There is scope of improvement because currently this simple parsing only looks at a hand curated list of authors.
