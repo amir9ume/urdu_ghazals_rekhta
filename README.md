@@ -1,5 +1,6 @@
 All data credits belong to the wonderful work done by **Rekhta foundation**.
 Link: https://www.rekhta.org/
+
 Data has been parsed into Urdu, Hindi and English translieration thanks to their excellent webpage.
 Consider supporting them for their great work in pushing the urdu language.
 
