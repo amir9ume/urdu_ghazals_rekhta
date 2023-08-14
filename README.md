@@ -21,7 +21,7 @@ Source: https://en.wikipedia.org/wiki/Ghazal
 
 
 I want to highlight an important point at this momement.
-4Mb of text data is nothing compared to what transformer based models actually need. 
+22Mb of text data is nothing compared to what transformer based models actually need. 
 
 [common crawl dataset](https://commoncrawl.org/) is a giant repository of free text data in more than 40 languages.
 If you actually want to train a transformer model from scratch, you would need data in order of millions of text files. And for that it would be best to start with one of these big data tools.
@@ -35,17 +35,10 @@ Data has been parsed into Urdu, Hindi and English translieration thanks to their
 Consider supporting them for their great work in pushing the urdu language.
 
 
-Credits to these authors for their wonderful original creations:
+Credits to authors for their wonderful original creations
 
-*'mirza-ghalib','allama-iqbal','faiz-ahmad-faiz','sahir-ludhianvi','meer-taqi-meer',
-'dagh-dehlvi','kaifi-azmi','gulzar','bahadur-shah-zafar','parveen-shakir',
-'jaan-nisar-akhtar','javed-akhtar','jigar-moradabadi','jaun-eliya',
- 'ahmad-faraz','meer-anees','mohsin-naqvi','firaq-gorakhpuri','fahmida-riaz','wali-mohammad-wali',
- 'waseem-barelvi','akbar-allahabadi','altaf-hussain-hali','ameer-khusrau','naji-shakir','naseer-turabi',
- 'nazm-tabatabai','nida-fazli','noon-meem-rashid', 'habib-jalib'*
 
 ===============================================
 
 If you would want to extend the size of this dataset, do a fork of this repository. 
-There is scope of improvement because currently this simple parsing only looks at a hand curated list of authors.
-There can be better ways of automating the task.
+
